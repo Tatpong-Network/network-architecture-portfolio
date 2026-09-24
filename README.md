@@ -3,9 +3,9 @@
 network-architecture-portfolio/
 
 ├── README.md                        <-- หน้าปก แนะนำตัว + ปรัชญาการทำงาน
-
+|
 ├── 01_enterprise-network-design/    <-- โปรเจกต์ OSPF + VLAN ที่คุณทำสำเร็จแล้ว
-
+|   |
 │   ├── README.md                    <-- อธิบาย Diagram, IP, VLAN, วิธีทดสอบ
 │   └── topology.png                 <-- รูป Diagram (ถ้ามี)
 ├── 02_huawei-cloud-architecture/    <-- สรุปสิ่งที่เรียนจาก HCIP Cloud

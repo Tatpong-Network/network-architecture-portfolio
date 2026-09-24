@@ -15,7 +15,7 @@ Here, I document my learning journey from Huawei ICT courses, analyze job descri
 | `01_enterprise-network-design` | Enterprise Network Design (OSPF + VLAN) using Huawei eNSP. |
 | `02_huawei-cloud-architecture` | Cloud Architecture, Virtualization, and HCIP Cloud summary. |
 | `03_jd-analysis-and-roadmap` | Analysis of Huawei Laos Internship JD and my self-development roadmap. |
-| `04_self-study-notes` | Summarized notes from HCIA-Datacom, HCIA-Security, and HCIA-WLAN. |
+| `04_self-study-notes` | Summarized notes from HCIA-Datacom, HCIA-Security, and HCIA-WLAN etc. |
 
 ## 🚀 My Development Roadmap (Short & Long Term)
 

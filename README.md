@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-I am Tatpong Pongsuwagorn, a Computer Science student at Khon Kaen University. This repository is not a coding portfolio, but a **Knowledge & Architecture Portfolio**. 
+I am Tatpong Pongsuwagorn, 4th year student, a Computer Science student at Khon Kaen University. This repository is not a coding portfolio, but a **Knowledge & Architecture Portfolio**. 
 
 Here, I document my learning journey from Huawei ICT courses, analyze job descriptions, and design network architectures. My goal is to become a vital gear in the organization, driven by passion and a commitment to continuous growth.
 

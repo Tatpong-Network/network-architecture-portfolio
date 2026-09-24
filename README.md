@@ -37,4 +37,4 @@ I believe that documentation is the key to effective knowledge transfer. I will 
 สวัสดีครับ ผมทัตพงศ์ พงศ์สุวากร GitHub นี้เป็นคลังความรู้และพอร์ตโฟลิโอสถาปัตยกรรมเครือข่ายของผม ผมมุ่งมั่นพัฒนาตัวเองและพร้อมเป็นฟันเฟืองสำคัญในองค์กรครับ
 
 ---
-*Created with passion for Network Engineering & IT Infrastructure.*
+*Created with passion for Network Engineer / IT Support Intern*
